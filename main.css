@@ -1,0 +1,44 @@
+@charset "utf-8";
+body{
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+/*进度条*/
+.progress {
+    margin-bottom: 15px;
+}
+/*头像*/
+.wh64{
+    width: 64px;
+    height: 64px;
+    border-radius:50%;
+}
+/*按钮边距*/
+.mar_15 {
+    margin-top: 15px;
+}
+/*用户page-header*/
+.page-header{
+    margin-top: 0;
+}
+.page-header h3{
+    margin: 0;
+    font-size: 16px;
+}
+.form-search{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+/*tag区域*/
+.tagList{
+    margin-right: 10px;
+}
+/*padding0*/
+.pad0{
+    padding: 0;
+}
+/*footer区域*/
+#footer{
+    padding: 20px 0;
+    text-align: center;
+}
